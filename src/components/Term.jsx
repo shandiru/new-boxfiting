@@ -78,7 +78,7 @@ const TermsConditions = () => {
                       </p>
                       <div className="text-white">
                           <p><strong>BOX FIT COACHING</strong></p>
-                          {/* <p>Email: <a href="mailto:afmok.performance@outlook.com" className="text-cyan-400 hover:underline">afmok.performance@outlook.com</a></p> */}
+                         
                           <p>Phone: +44 7737163987</p>
                           <p>69 Rea Street, Birmingham, B5 6BB, United Kingdom</p>
                       </div>

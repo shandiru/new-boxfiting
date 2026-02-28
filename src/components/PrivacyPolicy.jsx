@@ -44,7 +44,7 @@ const PrivacyPolicy = () => {
                     </p>
                     <ul className="list-disc ml-6 text-white">
                         <li>Respond to inquiries and provide quotes</li>
-                        <li>Deliver scaffolding services</li>
+                       
                         <li>Communicate with you about your project</li>
                         <li>Maintain business records and comply with legal requirements</li>
                     </ul>
@@ -111,7 +111,7 @@ const PrivacyPolicy = () => {
                     </p>
                     <div className="text-white">
                          <p><strong>BOX FIT COACHING</strong></p>
-                          {/* <p>Email: <a href="mailto:afmok.performance@outlook.com" className="text-cyan-400 hover:underline">afmok.performance@outlook.com</a></p> */}
+    
                           <p>Phone: +44 7737163987</p>
                           <p>69 Rea Street, Birmingham, B5 6BB, United Kingdom</p>
                     </div>
