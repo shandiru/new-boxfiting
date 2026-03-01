@@ -69,10 +69,7 @@ export default function AboutSection() {
               and results you can feel, you're in the right place.
             </p>
 
-            <button className="flex items-center gap-2 text-white font-semibold tracking-wide group">
-              <span>LEARN MORE</span>
-              <span className="group-hover:translate-x-1 transition">&#9654;</span>
-            </button>
+            
           </div>
         </div>
       </div>
