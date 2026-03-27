@@ -4,30 +4,29 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const timetable = {
   Monday: [
-    { name: "Junior Boxers", time: "4:30pm" },
-    { name: "Womens", time: "6:00pm" },
-    { name: "Beginners", time: "7:00pm" },
-    { name: "SQUAD", time: "9:00PM" },
+    { name: "Junior Boxers", time: "5:00pm" },
+    { name: "Womens Boxing", time: "6:00pm" },
+    { name: "SQUAD", time: "7:00PM" },
   ],
   Tuesday: [
-  
+    { name: "Beginners", time: "10:30AM" },
     { name: "BFC Wellbeing Programme", time: "6:00PM" },
-    { name: "Beginners", time: "9:00PM" },
+    { name: "Beginners", time: "7:30PM" },
   ],
   Wednesday: [
-    { name: "Junior Boxers", time: "4:30PM" },
+    { name: "Junior Boxers", time: "5:00PM" },
     { name: "Beginners", time: "6:00PM" },
-    { name: "Beginners", time: "7:30PM" },
-    { name: "SQUAD", time: "9:00PM" },
+    { name: "SQUAD", time: "7:00PM" },
   ],
   Thursday: [
-   
+     { name: "Beginners", time: "10:30AM" },
     { name: "Womens", time: "6:00PM" },
-    { name: "SQUAD", time: "9:00PM" },
+    { name: "Beginners", time: "7:30PM" },
   ],
   Friday: [
-    { name: "Junior Boxers", time: "4:30PM" },
+    { name: "Junior Boxers", time: "5:00PM" },
     { name: "Beginners", time: "6:00PM" },
+    { name: "SQUAD", time: "7:00PM" },
     
   ],
   Saturday: [{ name: "Beginners", time: "11:00AM" },
@@ -120,7 +119,7 @@ export default function ClassTimetable() {
 
         <p className="text-center text-gray-400 mt-10 text-lg tracking-wide">
           All sessions are 1 hour. <br />
-         <span className="text-red-500"> February 18th - March 18th (Gym closes at 12:00AM)</span> 
+        
         </p>
       </div>
     </section>
