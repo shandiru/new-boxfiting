@@ -4,8 +4,8 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const timetable = {
   Monday: [
-    { name: "Junior Boxers", time: "5:00pm" },
-    { name: "Womens Boxing", time: "6:00pm" },
+    { name: "Junior Boxers", time: "5:00PM" },
+    { name: "Womens Boxing", time: "6:00PM" },
     { name: "SQUAD", time: "7:00PM" },
   ],
   Tuesday: [
