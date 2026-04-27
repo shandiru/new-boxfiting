@@ -51,7 +51,7 @@ export default function Gallery() {
       <section className="w-full py-20 bg-black text-white" id="gallery">
         <div className="max-w-6xl mx-auto text-center mb-12 px-4">
           <h2 className="text-5xl font-bold" data-aos="fade-up">
-            Workshop Gallery
+            Gym Gallery
           </h2>
 
           <p
